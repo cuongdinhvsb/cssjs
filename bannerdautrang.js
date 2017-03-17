@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/bEfXZD' target='_blank'><img src='https://2.bp.blogspot.com/-JDuPQ0v6flI/WBsIMQ7WgiI/AAAAAAAABAU/koOOS7902hkkoOm4E9kVjE8s5ktchlkIgCPcB/s320/rau-thuy-canh-hcm.jpg' width='500px'/><br/>Trồng Rau Sạch Cho Gia Đình</a>. Hiệu quả lâu dài cho gia đình. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/bEfXZD' target='_blank'><img src='https://2.bp.blogspot.com/-JDuPQ0v6flI/WBsIMQ7WgiI/AAAAAAAABAU/koOOS7902hkkoOm4E9kVjE8s5ktchlkIgCPcB/s320/rau-thuy-canh-hcm.jpg' width='500px'/><br/>Trồng Rau Sạch Thủy Canh</a>. Hiệu quả lâu dài cho gia đình. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
